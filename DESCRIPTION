@@ -1,6 +1,6 @@
 Package: sprout
 Title: A Friendly Start to Data Science with R
-Version: 0.0.0.9000
+Version: 0.1.0
 Authors@R: 
     person("Kathryn", "Schuler", email = "kathryn.schuler@gmail.com", role = c("aut", "cre"))
 Description: 
