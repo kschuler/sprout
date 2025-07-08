@@ -1,0 +1,14 @@
+Package: sprout
+Title: A Friendly Start to Data Science with R
+Version: 0.0.0.9000
+Authors@R: 
+    person("Kathryn", "Schuler", email = "kathryn.schuler@gmail.com", role = c("aut", "cre"))
+Description: 
+    Provides a collection of small, beginner-friendly datasets and playful helper functions 
+    to support learners taking their first steps in data science with R. Designed as a companion 
+    to the Sprout book/tutorial, the package aims to be light, encouraging, and easy to use. 
+    Includes functions that return friendly messages and example data frames for practice.
+License: MIT
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
