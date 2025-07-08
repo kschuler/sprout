@@ -1,1 +1,34 @@
-/.quarto/
+# R build files
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio project file (optional, if you're not using RStudio)
+*.Rproj
+
+# Package build files
+.DS_Store
+*.tar.gz
+*.Rcheck/
+
+# Documentation output
+man/*.Rd
+NAMESPACE
+
+# Roxygen-generated files
+.Rbuildignore
+
+# Cache and logs
+.Rapp.history
+.RsessionHistory
+.RDataTmp
+.RdataTmp
+
+# R Markdown and README artifacts
+README.html
+README_cache/
+README_files/
+
+# VS Code specific
+.vscode/
